@@ -1,2 +1,4 @@
 .env
 .venv
+gitpush.ps1
+init.ps1
